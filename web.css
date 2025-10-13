@@ -5,7 +5,7 @@
 body {
     font-family: "Lato", sans-serif;
     line-height: 1.6;
-    background-color: #b06bcc;
+    background-color: #9b5cb4;
     color: #333;
 }
 .bar {
@@ -27,7 +27,7 @@ body {
     font-weight: 500;
 }
 .nlinks a:hover {
-    text-decoration: underline;
+    text-decoration:overline
 }
 .moon{
     background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
